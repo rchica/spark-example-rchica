@@ -1,1 +1,1 @@
-launch travis
+launch trial

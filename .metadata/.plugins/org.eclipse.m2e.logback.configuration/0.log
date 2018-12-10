@@ -30,3 +30,15 @@
 2018-12-10 12:22:33,498 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alumnos/rchica/Documentos/ISI/heroku-spark/pruebasSparkJava/src/main/resources
 2018-12-10 12:22:33,499 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-12-10 12:22:33,499 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alumnos/rchica/Documentos/ISI/heroku-spark/pruebasSparkJava/src/test/resources
+2018-12-10 12:25:55,263 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-10 12:25:55,264 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alumnos/rchica/Documentos/ISI/heroku-spark/pruebasSparkJava/src/main/resources
+2018-12-10 12:25:55,267 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-10 12:25:55,269 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alumnos/rchica/Documentos/ISI/heroku-spark/pruebasSparkJava/src/test/resources
+2018-12-10 12:26:06,326 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-10 12:26:06,327 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alumnos/rchica/Documentos/ISI/heroku-spark/pruebasSparkJava/src/main/resources
+2018-12-10 12:26:06,331 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-10 12:26:06,331 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alumnos/rchica/Documentos/ISI/heroku-spark/pruebasSparkJava/src/test/resources
+2018-12-10 12:26:17,113 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-10 12:26:17,114 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alumnos/rchica/Documentos/ISI/heroku-spark/pruebasSparkJava/src/main/resources
+2018-12-10 12:26:17,117 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-10 12:26:17,117 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alumnos/rchica/Documentos/ISI/heroku-spark/pruebasSparkJava/src/test/resources
