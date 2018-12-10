@@ -1,0 +1,28 @@
+2018-12-10 12:10:28,336 [Worker-3: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-10 12:11:01,189 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/alumnos/rchica/Documentos/ISI/heroku-spark/pruebasSparkJava/pom.xml
+2018-12-10 12:11:02,324 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: urjc.isi:pruebasSparkJava:0.0.1-SNAPSHOT @ /home/alumnos/rchica/Documentos/ISI/heroku-spark/pruebasSparkJava/pom.xml.
+2018-12-10 12:11:02,681 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pruebasSparkJava/src/main/java
+2018-12-10 12:11:02,693 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pruebasSparkJava/src/test/java
+2018-12-10 12:11:03,483 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2018-12-10 12:11:03,931 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-10 12:11:03,931 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alumnos/rchica/Documentos/ISI/heroku-spark/pruebasSparkJava/src/main/resources
+2018-12-10 12:11:03,933 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-10 12:11:03,933 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alumnos/rchica/Documentos/ISI/heroku-spark/pruebasSparkJava/src/test/resources
+2018-12-10 12:13:28,101 [Worker-0: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: urjc.isi:pruebasSparkJava:0.0.1-SNAPSHOT @ /home/alumnos/rchica/Documentos/ISI/heroku-spark/pruebasSparkJava/pom.xml.
+2018-12-10 12:13:28,586 [Worker-0: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+2018-12-10 12:13:28,677 [Worker-0: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+2018-12-10 12:13:29,239 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-10 12:13:29,239 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alumnos/rchica/Documentos/ISI/heroku-spark/pruebasSparkJava/src/main/resources
+2018-12-10 12:13:29,241 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-10 12:13:29,243 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alumnos/rchica/Documentos/ISI/heroku-spark/pruebasSparkJava/src/test/resources
+2018-12-10 12:13:30,265 [Worker-2: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar
+2018-12-10 12:13:30,333 [Worker-2: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar
+2018-12-10 12:13:30,446 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-10 12:13:30,449 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alumnos/rchica/Documentos/ISI/heroku-spark/pruebasSparkJava/src/main/resources
+2018-12-10 12:13:30,452 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-10 12:13:30,453 [Worker-2: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest-core:1.3
+2018-12-10 12:13:30,454 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alumnos/rchica/Documentos/ISI/heroku-spark/pruebasSparkJava/src/test/resources
+2018-12-10 12:13:31,759 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-10 12:13:31,759 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alumnos/rchica/Documentos/ISI/heroku-spark/pruebasSparkJava/src/main/resources
+2018-12-10 12:13:31,760 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-10 12:13:31,760 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/alumnos/rchica/Documentos/ISI/heroku-spark/pruebasSparkJava/src/test/resources
