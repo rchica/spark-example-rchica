@@ -1,1 +1,1 @@
-launch trial 2
+launch trial
